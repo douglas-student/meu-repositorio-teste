@@ -1,4 +1,5 @@
-# Meu Repositório de Estudos - DIO Formação Github Certification
+# DIO Formação Github Certification
+## Meu Repositório de Estudos
 
 Este conteúdo faz parte do curso Formação Github Certification na [Digital Innovation One](https://www.dio.me/sign-up?ref=615HKOBZ22)
 
