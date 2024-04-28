@@ -9,7 +9,7 @@ Este conteúdo faz parte do curso Formação Github Certification na [Digital In
 
 - [x] Clonar um repositório remoto para o nosso computador local;
 
-- [ ] Fazer alterações >> Adicionar | Commitar | Enviar arquivos;
+- [x] Fazer alterações >> Adicionar | Commitar | Enviar arquivos;
 
 - [ ] Criar uma nova branch;
 
