@@ -11,7 +11,7 @@ Este conteúdo faz parte do curso Formação Github Certification na [Digital In
 
 - [x] Fazer alterações >> Adicionar | Commitar | Enviar arquivos;
 
-- [ ] Criar uma nova branch;
+- [x] Criar uma nova branch;
 
 - [ ] Realizar um Pull Request e Merge;
 
