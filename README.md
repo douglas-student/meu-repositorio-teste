@@ -4,14 +4,14 @@ Este conteúdo faz parte do curso Formação Github Certification na [Digital In
 
 ## Objetivos da Aula:
 
-[x] Criar um repositório local e adicioná-lo ao nosso GitHub - remoto;
+- [x] Criar um repositório local e adicioná-lo ao nosso GitHub - remoto;
 
-[] Clonar um repositório remoto para o nosso computador local;
+- [x] Clonar um repositório remoto para o nosso computador local;
 
-[] Fazer alterações >> Adicionar | Commitar | Enviar arquivos;
+- [ ] Fazer alterações >> Adicionar | Commitar | Enviar arquivos;
 
-[] Criar uma nova branch;
+- [ ] Criar uma nova branch;
 
-[] Realizar um Pull Request e Merge;
+- [ ] Realizar um Pull Request e Merge;
 
-[] Criar nosso primeiro Fork;
+- [ ] Criar nosso primeiro Fork;
