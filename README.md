@@ -13,6 +13,4 @@ Este conteúdo faz parte do curso Formação Github Certification na [Digital In
 
 - [x] Criar uma nova branch e merge;
 
-- [ ] Realizar um Pull Request;
-
-- [ ] Criar nosso primeiro Fork;
+- [x] Realizar Fork e um Pull Request;
